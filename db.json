@@ -1,0 +1,41 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "title": "Introduction to JSON",
+          "description": "Learn the basics of JSON (JavaScript Object Notation) data interchange format.",
+          "likeCount": 200
+        },
+        {
+          "id": 2,
+          "title": "Web Development with React",
+          "description": "Explore building modern web applications using React.js.",
+          "likeCount": 90999
+        },
+        {
+          "id": 3,
+          "title": "Python Data Analysis",
+          "description": "Discover techniques for analyzing and visualizing data using Python.",
+          "likeCount": 180
+        },
+        {
+          "id": 4,
+          "title": "Mobile App Development with Flutter",
+          "description": "Build cross-platform mobile apps using the Flutter framework.",
+          "likeCount": 300
+        },
+        {
+          "id": 5,
+          "title": "Machine Learning Fundamentals",
+          "description": "Gain insights into the basics of machine learning and its applications.",
+          "likeCount": 255555
+        },
+        {
+          "id": 6,
+          "title": "Cybersecurity Essentials",
+          "description": "Learn the essential principles and practices of cybersecurity.",
+          "likeCount": 150
+        }
+      ]
+      
+}
